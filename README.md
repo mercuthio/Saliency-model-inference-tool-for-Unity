@@ -1,7 +1,5 @@
 # Saliency-model-inference-tool-for-Unity
 
----
-
 ## Requirements
 
 - ```Python 3.11.1```
