@@ -12,6 +12,6 @@
 
 ## Models used
 
-- [Image prediction model CNN-360]([DaniMS-ZGZ/Panoramic-CNN-360-Saliency: Code and models for "Panoramic convolutions for 360º single-image saliency prediction" (github.com)](https://github.com/DaniMS-ZGZ/Panoramic-CNN-360-Saliency))
+- Image prediction model: [CNN-360](https://github.com/DaniMS-ZGZ/Panoramic-CNN-360-Saliency)
 
-- [Video prediction model SST-Sal]([edurnebernal/SST-Sal: SST-Sal: A spherical spatio-temporal approach for saliency prediction in 360º videos (github.com)](https://github.com/edurnebernal/SST-Sal))
+- Video prediction model: [SST-Sal](https://github.com/edurnebernal/SST-Sal)
