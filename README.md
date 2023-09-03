@@ -8,7 +8,7 @@
 
 ## How to use the tool
 
-- Copy the SaliencyTool folder the **Assets** folder of your Unity project. In the first salience prediction all missing dependencies will be installed.
+- Copy the SaliencyTool folder to the **Assets** folder of your Unity project. In the first salience prediction all missing dependencies will be installed.
 
 ## Models used
 
